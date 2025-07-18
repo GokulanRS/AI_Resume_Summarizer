@@ -1,0 +1,6 @@
+langchain
+crewai
+langchain_groq
+PyMuPDF
+reportlab
+streamlit
